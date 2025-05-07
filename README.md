@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/8636dd9e-7a7c-4396-81b6-c78f391489c1)
+
+
 sebuah proyek game First Person Shooter (FPS) berbasis Unity yang menggunakan sistem input modern (Input System) dan dirancang untuk berjalan pada berbagai platform, termasuk PC dan mobile. Proyek ini mencakup sistem kontrol pemain, tampilan pemain (look), serta scene dan prefab dasar untuk gameplay FPS.
 
 🧩 Fitur Utama
